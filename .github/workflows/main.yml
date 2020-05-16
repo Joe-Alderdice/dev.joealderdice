@@ -14,3 +14,4 @@ jobs:
         ftp-server: ${{ secrets.FTP_SERVER }}
         ftp-username: joe
         ftp-password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: /joealderdice.dev 
